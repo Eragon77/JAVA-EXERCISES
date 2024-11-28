@@ -1,3 +1,5 @@
+package package1;
+
 public class ProductWarehouseWithHistory extends ProductWarehouse {
     private ChangeHistory history;
 

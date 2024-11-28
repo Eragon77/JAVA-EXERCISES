@@ -1,3 +1,5 @@
+package package1;
+
 public class ProductWarehouse extends Warehouse{
         private  String productName;
 

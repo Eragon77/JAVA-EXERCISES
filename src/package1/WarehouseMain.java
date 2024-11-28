@@ -1,3 +1,5 @@
+package package1;
+
 public class WarehouseMain{
     public static void main(String[] args){
         ProductWarehouseWithHistory juice = new ProductWarehouseWithHistory("Juice", 1000.0, 1000.0);
